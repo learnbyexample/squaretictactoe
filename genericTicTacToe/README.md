@@ -21,9 +21,6 @@ To make a playable version,  cross-platform game development framework [libGDX](
 
 * [Android apk](https://drive.google.com/file/d/0B0NTnLwARdzoeHVzTjBLSWJNRHc/view?usp=sharing)
 * [Java Jar file](https://drive.google.com/file/d/0B0NTnLwARdzoRjhJNmVCbVBLV00/view?usp=sharing)
-
-<br>
-
 * Asset Credits
 	* [Alphabet X](https://openclipart.org/detail/4871/effect-letters-alphabet-silver)
 	* [Alphabet O](https://openclipart.org/detail/80071/effect-letters-alphabet-red)
