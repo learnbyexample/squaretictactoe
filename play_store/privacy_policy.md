@@ -1,4 +1,4 @@
-### Version 1.5.0
+### Version 1.5.0 and above
 
 * Crashlytics and Answers no longer used
 * Please update the app if you are using an older version
