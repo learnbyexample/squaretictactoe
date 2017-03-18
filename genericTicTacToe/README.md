@@ -9,12 +9,14 @@ A possibly (as far as I have tested) unbeatable **NxN Tic Tac Toe** AI logic, wh
 * **To do:** Test 4x4 and higher board sizes
 
 <br>
+
 Here's an illustration of how this AI works
 <br>
 
 ![Square - 4x4 Board](./AI_logic.gif)
 
 <br>
+
 ## Deploy
 
 To make a playable version,  cross-platform game development framework [libGDX](https://libgdx.badlogicgames.com/) was used
@@ -26,6 +28,7 @@ To make a playable version,  cross-platform game development framework [libGDX](
 	* [Alphabet O](https://openclipart.org/detail/80071/effect-letters-alphabet-red)
 
 <br>
+
 ## <a name="license"></a>License
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
