@@ -7,11 +7,13 @@ Now imagine a 4x4 board, with players trying to place four moves in such a manne
 Hmm, fine... but how do you extend the games for larger board size, say 7x7 board? Each player is given fixed number of 'block' moves that varies based on board size - they can be used to prevent a cell being part of straight line or square.
 
 <br>
+
 ### Screen shots
 
 ![Square - 4x4 Board](./play_store/SquareBoard4Medium.png) ![Square - 6x6 Board](./play_store/SquareBoard6Hard.png) ![Tic Tac Toe - 7x7 Board](./play_store/TicTacToeBoard7Line4Crazy.png)
 
 <br>
+
 ### Project Status
 
 * The app on Android play store is unlikely to get major updates
